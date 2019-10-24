@@ -5,6 +5,65 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>706787D3-FF91-4E25-964A-3F9D040D1967</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>706787D3-FF91-4E25-964A-3F9D040D1967.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Github_RN project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Github_RN</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Github_RN with scheme Github_RN and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>593542109.276649</real>
+			<key>timeStoppedRecording</key>
+			<real>593542114.913167</real>
+			<key>title</key>
+			<string>Building workspace Github_RN with scheme Github_RN and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>706787D3-FF91-4E25-964A-3F9D040D1967</string>
+		</dict>
+		<key>AAC447EA-54FC-4295-ABC5-0F7A80813062</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AAC447EA-54FC-4295-ABC5-0F7A80813062.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Github_RN project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Github_RN</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Github_RN with scheme Github_RN and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>593540636.54260397</real>
+			<key>timeStoppedRecording</key>
+			<real>593540641.73221004</real>
+			<key>title</key>
+			<string>Building workspace Github_RN with scheme Github_RN and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>AAC447EA-54FC-4295-ABC5-0F7A80813062</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

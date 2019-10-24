@@ -10,7 +10,7 @@ import DetailPage from '../page/DetailPage'
 
 
 
-const InitNavigator = createSwitchNavigator({
+const InitNavigator = createStackNavigator({
     WelcomePage:{
         screen:WelcomePage,
         navigationOptions:{
@@ -19,7 +19,7 @@ const InitNavigator = createSwitchNavigator({
     }
 })
 
-const MainNavigator = createSwitchNavigator({
+const MainNavigator = createStackNavigator({
     HomePage:{
         screen:HomePage,
         navigationOptions:{
@@ -29,7 +29,7 @@ const MainNavigator = createSwitchNavigator({
     DetailPage:{
         screen:DetailPage,
         navigationOptions:{
-            header:null  // 禁用navigationbar
+            // header:null  // 禁用navigationbar
         }
     },
 });
